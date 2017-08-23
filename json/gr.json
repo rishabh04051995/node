@@ -1,0 +1,97 @@
+[
+  {
+    "countryName": "India",
+    "Population": 48.74000000000001,
+    "Purchasingpower": 1009.9100000000003
+  },
+  {
+    "countryName": "China",
+    "Population": 19.84999999999991,
+    "Purchasingpower": 3494.8600000000006
+  },
+  {
+    "countryName": "Indonesia",
+    "Population": 10.310000000000002,
+    "Purchasingpower": 280.01
+  },
+  {
+    "countryName": "USA",
+    "Population": 7.1200000000000045,
+    "Purchasingpower": 1738.8199999999997
+  },
+  {
+    "countryName": "Brazil",
+    "Population": 4.930000000000007,
+    "Purchasingpower": 280.0300000000002
+  },
+  {
+    "countryName": "Mexico",
+    "Population": 3.700000000000003,
+    "Purchasingpower": 282.1100000000001
+  },
+  {
+    "countryName": "Turkey",
+    "Population": 2.8100000000000023,
+    "Purchasingpower": 210.51
+  },
+  {
+    "countryName": "South Africa",
+    "Population": 1.8200000000000003,
+    "Purchasingpower": 80.75999999999999
+  },
+  {
+    "countryName": "United Kingdom",
+    "Population": 1.5,
+    "Purchasingpower": 167.78999999999996
+  },
+  {
+    "countryName": "Argentina",
+    "Population": 1.3700000000000045,
+    "Purchasingpower": 131.92999999999995
+  },
+  {
+    "countryName": "Canada",
+    "Population": 1.1300000000000026,
+    "Purchasingpower": 164.29999999999995
+  },
+  {
+    "countryName": "France",
+    "Population": 0.9299999999999997,
+    "Purchasingpower": 158.44000000000005
+  },
+  {
+    "countryName": "Australia",
+    "Population": 0.870000000000001,
+    "Purchasingpower": 135.85000000000002
+  },
+  {
+    "countryName": "Republic of Korea",
+    "Population": 0.8300000000000054,
+    "Purchasingpower": 218.81000000000017
+  },
+  {
+    "countryName": "Italy",
+    "Population": 0.6599999999999966,
+    "Purchasingpower": 36.49000000000001
+  },
+  {
+    "countryName": "Germany",
+    "Population": -0.010000000000005116,
+    "Purchasingpower": 312.17999999999984
+  },
+  {
+    "countryName": "Saudi Arabia",
+    "Population": -0.629999999999999,
+    "Purchasingpower": 115.99000000000001
+  },
+  {
+    "countryName": "Japan",
+    "Population": -0.710000000000008,
+    "Purchasingpower": 389.0400000000009
+  },
+  {
+    "countryName": "Russia",
+    "Population": -1.460000000000008,
+    "Purchasingpower": 399.03999999999996
+  }
+]

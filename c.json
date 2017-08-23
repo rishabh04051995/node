@@ -1,0 +1,27 @@
+[
+  {
+    "continent": "North America",
+    "population": 6653.850000000002,
+    "gdp": 340992.75
+  },
+  {
+    "continent": "Asia",
+    "population": 0,
+    "gdp": 0
+  },
+  {
+    "continent": "Australia",
+    "population": 0,
+    "gdp": 0
+  },
+  {
+    "continent": "Europe",
+    "population": 0,
+    "gdp": 0
+  },
+  {
+    "continent": "South America",
+    "population": 0,
+    "gdp": 0
+  }
+]

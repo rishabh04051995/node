@@ -1,23 +1,11 @@
 [
   {
-    "countryName": "Country Name",
-    "Population": "Population (Millions) - 2013"
-  },
-  {
-    "countryName": "World",
-    "Population": "7095.22"
-  },
-  {
     "countryName": "China",
     "Population": "1360.76"
   },
   {
     "countryName": "India",
     "Population": "1239.26"
-  },
-  {
-    "countryName": "European Union",
-    "Population": "504.89"
   },
   {
     "countryName": "USA",
@@ -70,10 +58,6 @@
   {
     "countryName": "Republic of Korea",
     "Population": "50.24"
-  },
-  {
-    "countryName": "Argentina",
-    "Population": "41.49"
   },
   {
     "countryName": "Canada",
