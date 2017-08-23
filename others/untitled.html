@@ -1,0 +1,22 @@
+/*var op = []
+var fs = require("fs");
+var readableStream = require('readline').createInterface({
+    input: require('fs').createReadStream('Table1.3_g20_2013.csv')
+});
+var writeableStream3 = require("fs").createWriteStream("gr.json")
+readableStream.on('line', function(line) {
+    var objd = {};
+    var lineSplit = line.split(','); //growth jason 
+    objd.countryName = lineSplit[0];
+    objd.Population = lineSplit[5]-lineSplit[2];
+    objd.Purchasingpower = lineSplit[17]-lineSplit[14];
+     if (objd.countryName == 'European Union' || objd.countryName == 'World') {
+    }
+     else {
+    op.push(objd);}
+});
+readableStream.on('close', function(line) {
+var obj = op.filter(e => e.Population) // population
+        .sort((a, b) => (b.Population - a.Population))
+        writeableStream3.write(JSON.stringify(obj, null, 2))
+});*/
